@@ -1,0 +1,9 @@
+package br.com.highwaynetwork.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class MalhaViariaServices {
+
+    
+}
