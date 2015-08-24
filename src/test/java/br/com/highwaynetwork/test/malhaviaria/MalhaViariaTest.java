@@ -38,8 +38,8 @@ public class MalhaViariaTest {
     @Value("${local.server.port}") //porta que foi startado o servidor
     int port;
     
-    Vertice v1, v2, v3;
-    Grafo g1, g2, g3;
+    private Vertice v1, v2, v3;
+    private Grafo g1, g2, g3;
 
     @Before
     public void setUp() {

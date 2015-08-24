@@ -13,6 +13,6 @@ public class HighwayServer {
 	public static void main(String[] args) {
 		 // Será configurado usando o highway-services.yml
         System.setProperty("spring.config.name", "highway-services");
-		SpringApplication.run(HighwayApplication.class, args);
+		SpringApplication.run(HighwayServer.class, args);
 	}
 }

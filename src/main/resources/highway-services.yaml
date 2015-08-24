@@ -18,3 +18,5 @@ neo4j:
  password: 
  user: 
  
+highway:
+  highwaypath: http://HIGHWAYPATH-SERVICES
